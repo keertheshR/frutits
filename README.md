@@ -1,1 +1,1 @@
-# frutits
+# fruits
